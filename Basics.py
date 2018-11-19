@@ -12,13 +12,6 @@ data = list(csvreader)
 
 print(data[0:5])
 
-
-# In[ ]:
-
-
-
-
-
 # In[3]:
 
 
